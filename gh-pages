@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'>
+		<link rel='stylesheet' href='style-bem.css'>
+	</head>
+	<body>
+		<div class="b-container">
+			<!-- <div class="b-container__header"> -->
+				<!-- <div class="b-header"> -->
+					<!-- <div class="b-header__logo">  -->
+						<!-- <div class="b-logo"> -->
+							<img src="img/logo-travelcity.png" width="504" height="134" class="b-logo__image">
+						<!-- </div> -->
+					<!-- </div>	 -->
+				<!-- </div> -->
+			<!-- </div> -->
+			<div class="b-menubar__menu_header b-block_white">
+				<ul class="b-menu">
+					<li class="b-menu__item"><a href="#" class="b-menu__link">Home</a></li>
+					<li class="b-menu__item"><a href="#" class="b-menu__link">Portfolio</a></li>
+					<li class="b-menu__item"><a href="#" class="b-menu__link">Blog</a></li>
+					<li class="b-menu__item"><a href="#" class="b-menu__link">Contact</a></li>
+				</ul>
+				<!-- <div class="b-menubar__search"> -->
+					<!-- <div class="b-search"> -->
+						<div class="b-search__field">
+							<input class="b-textfield" type="text" placeholder="search" name="search">
+							<input class="b-search__button" type="button">
+						</div>	
+					<!-- </div> -->
+				<!-- </div> -->
+			</div>
+			<div class="b-container__slider b-block_white">
+				<div class="b-slider">
+					<div class="b-slider__slides"> <!-- место под все слайды -->
+						<img src="img/wallpaper.png" width="900" height="347" class="b-slide"> <!-- отдельный слайд вместе с оформлением своего месторасположения-->
+					</div>
+				</div>
+			</div>
+			<div class="b-container__articles"> 
+				<div class="b-articles">
+					<div class="b-article">
+						<img class="b-article__image" src="img/articlepic_1.png" type="image" width="200" height="155">
+						<div class="b-article__text">
+							<p>Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor.</p>
+						</div>
+					</div>	
+					<div class="b-article">
+						<img class="b-article__image" src="img/articlepic_2.png" type="image">
+						<div class="b-article__text">
+							<p>Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor.</p>
+						</div>
+					</div>	
+					<div class="b-article">
+						<img class="b-article__image" src="img/articlepic_3.png" type="image">
+						<div class="b-article__text">
+							<p>Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor.</p>
+						</div>	
+					</div>	
+					<div class="b-article">
+						<img class="b-article__image" src="img/articlepic_4.png" type="image">
+						<div class="b-article__text">
+							<p>Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor.</p>
+						</div>
+					</div>				
+				</div>				
+			</div>
+							
+			<div class="b-container__content">	
+				<div class="b-content b-block_white">
+					<div class="b-content__image_block"> 	
+						<img class="b-content__image" width="100" height="100" src="img/articlepic_3.png">	
+						<img class="b-content__image" width="100" height="100" src="img/articlepic_2.png">	
+						<img class="b-content__image" width="100" height="100" src="img/articlepic_1.png">	
+						<img class="b-content__image" width="100" height="100" src="img/articlepic_4.png">
+					</div>		
+					<div class="b-content__info_bottom">	
+						<div class="b-content__header_bottom">
+							<p>Welcome to the site</p>
+						</div>	
+						<div class="b-content__text">
+							<p>Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer. Duis autem vel Lorem ipsum Lorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuerLorem ipsum dolor sit amet, uer uer Duis autem vel eum iriure Duis autemvel eum iriure dolor. ipsum dolor sit amet, consectetuer</p>	
+						</div>	
+						<div class="b-content__link">
+							<ul>
+								<li class="b-content__link"><a href="#" class="b-content__link">more...</a></li>
+							</ul>	
+						</div>
+					</div>			
+				</div>			
+			</div>	
+
+			<div class="b-container__footer b-block_white">
+				<div class="b-footer">
+					<div class="b-footer__menu">
+						<ul>
+							<li class="b-menu__item"><a href="#" class="b-menu__link_footer">Terms of Service</a></li>
+							<li class="b-menu__item"><a href="#" class="b-menu__link_footer">Privacy Policy</a></li>
+						</ul>
+					</div>
+					<div class="b-footer__copyright">
+						<ul>
+							<li class="b-footer__copyright b-menu__link_footer">© 2009 Designzzz(www.designezzz.com)</li>
+						</ul>
+					</div>	
+				</div>	
+			</div>
+		</div>
+	</body>
+</html>
