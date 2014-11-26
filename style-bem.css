@@ -92,7 +92,7 @@ body {
 }
 .b-search__button{
 	background: url('search.png') no-repeat transparent;
-	height: 31px;
+	/*height: 31px;*/
 	width: 40px;
 	border: none;
 	margin-left: -40px;
