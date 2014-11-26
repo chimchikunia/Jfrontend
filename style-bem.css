@@ -91,11 +91,13 @@ body {
 	width: 260px;
 }
 .b-search__button{
-	background: url('search.png') no-repeat transparent;
-	/*height: 31px;*/
+	background: url('img/Search.png') no-repeat transparent;
+	background-size: 40px;
+	height: 22px;
 	width: 40px;
 	border: none;
 	margin-left: -40px;
+	padding: 20px;
 }
 .b-article {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.75);
