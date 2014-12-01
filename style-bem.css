@@ -221,7 +221,7 @@ body {
 	padding: 0 90px;
 	font-size: 13px;
 }
-
+<style>
 @media screen and (max-width: 1024px) and (min-width: 768px) {
 .b-logo__image {
 	margin: 0 200px;
@@ -303,6 +303,8 @@ body {
 	width: 60%;
 }
 }
+</style>
+<style>
 @media screen and (max-width: 480px) and (min-width: 320px) {
 .b-logo__image {
     display: block;
@@ -433,3 +435,4 @@ body {
 	margin-top: -10.5px;
 }
 }
+</style>
