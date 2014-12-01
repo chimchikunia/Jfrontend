@@ -65,9 +65,8 @@ body {
 	font-size: 0;
 	padding: 0 43px;
 }
-.b-menubar__menu_header .b-menu__item {
-
-}
+/*.b-menubar__menu_header .b-menu__item {
+}*/
 .b-footer__menu .b-menu__item {
 	padding: 0;
 	width: 102px;	
@@ -219,7 +218,6 @@ body {
 	float: left;
 	padding: 0 90px;
 	font-size: 13px;
-}
 }
 @media screen and (max-width: 1024px) and (min-width: 768px) {
 .b-logo__image {
