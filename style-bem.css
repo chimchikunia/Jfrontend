@@ -326,11 +326,12 @@ body {
 	margin-top: 1px;
 }
 .b-search__button {
-	width: 15px;
-	margin-left: -20px;
+	width: 40px;
+	margin-left: -40px;
 	background-size: 16px;
 	background-position: right;
 	padding: 9px;
+	margin-right: 0px;
 }
 .b-menu__link {
 	font-size: 8pt;
