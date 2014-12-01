@@ -303,7 +303,7 @@ body {
 .b-footer__copyright {
 	width: 60%;
 }
-}
+
 @media screen and (max-width: 480px) and (min-width: 320px) {
 .b-logo__image {
     display: block;
@@ -433,4 +433,3 @@ body {
 	padding: 0 35px;
 	margin-top: -10.5px;
 }
-} 
