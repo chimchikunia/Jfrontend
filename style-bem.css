@@ -305,21 +305,21 @@ body {
     display: block;
     height: 75px;
     width: 260px;
-    margin: -20px 30px;
+    margin: -20px 25px;
     text-align: center;
     padding: 5px;
 }
 .b-block_white {
 	margin: 10px;
-	padding: 5px 20px;
-	width: 260px;
+	padding: 2px 18px;
+	width: 250px;
 }
 .b-textfield {
-	height: 10px;
-	line-height: 10px;
-	padding: 0 5px;
-	width: 90px;
-	font-size: 10px;
+	height: 8px;
+	line-height: 8px;
+	padding: 0 7px;
+	width: 80px;
+	font-size: 9px;
 }
 .b-search__field {
 	margin-top: -4px;
