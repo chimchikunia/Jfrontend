@@ -315,9 +315,9 @@ body {
 	width: 250px;
 }
 .b-textfield {
-	height: 8px;
-	line-height: 8px;
-	padding: 0 7px;
+	height: 7px;
+	line-height: 7px;
+	padding: 0 5px;
 	width: 80px;
 	font-size: 9px;
 }
@@ -326,8 +326,8 @@ body {
 }
 .b-search__button {
 	width: 15px;
-	margin-left: -15px;
-	background-size: 15px;
+	margin-left: -20px;
+	background-size: 16px;
 	background-position: right;
 }
 .b-menu__link {
