@@ -318,8 +318,9 @@ body {
 	height: 7px;
 	line-height: 7px;
 	padding: 0 5px;
-	width: 65px;
+	width: 80px;
 	font-size: 7px;
+	margin-right: -10px;
 }
 .b-search__field {
 	margin-top: 1px;
@@ -346,7 +347,7 @@ body {
 }
 .b-slide {
 	height: 170px;
-	width: 280px;
+	width: 270px;
 	margin: 0 -10.5px;
 }
 .b-container__slider {
