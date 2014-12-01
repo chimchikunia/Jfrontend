@@ -229,6 +229,9 @@ body {
 	height: 115px;
 	width: 400px;
 }
+.b-container {
+	width: 768px;
+}
 .b-container__slider b-block_white {
 	width: 700px;
 }
