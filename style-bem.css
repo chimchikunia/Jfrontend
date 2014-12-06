@@ -361,14 +361,17 @@ body {
 	width: 300px;
 }
 .b-article {
-	height: 150px;
+	height: 160px;
+	width: 20%;
 }
 .b-article__image {
 	height: 50px;
+	width: 80%;
 }
 .b-article__text {
 	font-size: 6px;
 	line-height: 7px;
+	padding: 5px;
 }
 .b-article__text p:first-letter {
 	margin-left: 1em;
