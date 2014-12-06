@@ -312,7 +312,7 @@ body {
 .b-block_white {
 	margin: 10px;
 	padding: 2px 18px;
-	width: 250px;
+	width: 245px;
 }
 .b-textfield {
 	height: 7px;
@@ -382,12 +382,12 @@ body {
 .b-content__image_block {
 	font-size: 5px;
 	width: 67px;
-	margin-left: -26.5%;
-	margin-right: -1px;
+	margin-left: -26%;
+	margin-right: -15px;
 }
 .b-content__image {
-	height: 30px;
-	width: 33px;
+	height: 25px;
+	width: 27px;
 }
 .b-content__header_bottom p {
 	font-size: 12px;
