@@ -361,12 +361,12 @@ body {
 	width: 300px;
 }
 .b-article {
-	height: 160px;
+	height: 165px;
 	width: 20%;
 }
 .b-article__image {
 	height: 50px;
-	width: 80%;
+	width: 90%;
 }
 .b-article__text {
 	font-size: 6px;
