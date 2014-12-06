@@ -297,7 +297,10 @@ body {
 	margin: -12px; 
 }
 .b-footer__menu {
-	line-height: 0px;
+	line-height: 40px;
+}
+.b-footer__menu .b-menu__item {
+	width: 160px;
 }
 .b-footer__copyright {
 	width: 100%;
