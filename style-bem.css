@@ -435,19 +435,19 @@ body {
 	height: 20px;
 }
 .b-menu__link_footer {
-	font-size: 7px;
+	font-size: 8.5px;
 }
 .b-footer__menu .b-menu__item {
-	width: 60px;
+	width: 65px;
 }
 .b-footer__menu {
 	height: 15px;
 	line-height: 8px;
 }
 .b-footer__copyright {
-	font-size: 7px;
+	font-size: 8.5px;
 	width: 100%;
-	padding: 0 35px;
+	padding: 0px 40px;
 	margin-top: -10.5px;
 }
 }
