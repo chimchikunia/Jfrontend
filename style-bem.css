@@ -120,8 +120,8 @@ body {
 .b-article {
 	display: inline-block;
 	background: white;
-    text-align: center;
-    width: 21.5%;
+    	text-align: center;
+    	width: 21.5%;
 	padding: 1%;
 	margin-left: 2%;
 	vertical-align: top;
@@ -372,7 +372,7 @@ body {
 	height: 210px;
 	width: 37.8%;
 	margin-left: 3%;
-	margin: -3 0 10px;
+	margin: -3px 0 10px;
 }
 .b-article__image {
 	height: 75px;
