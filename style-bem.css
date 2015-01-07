@@ -432,7 +432,7 @@ body {
 	padding-bottom: 10px;
 }
 .b-container__footer {
-	height: 20px;
+	height: 15px;
 }
 .b-menu__link_footer {
 	font-size: 8.5px;
@@ -442,7 +442,7 @@ body {
 }
 .b-footer__menu {
 	height: 15px;
-	line-height: 8px;
+	line-height: 15px;
 }
 .b-footer__copyright {
 	font-size: 8.5px;
