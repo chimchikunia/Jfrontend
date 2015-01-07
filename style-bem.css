@@ -413,24 +413,26 @@ body {
 .b-content__text p {
 	font-size: 10px;
 	line-height: 12px;
-	padding: 30px;
+	padding: 5px 35px;
 }
 .b-container__content {
 	margin: 0px;
 }
 .b-content__text {
-	width: 115%;
+	width: 124%;
+	height: 190px;
 }
 .b-content__text p:first-letter {
 	padding-left: 1em 
 }
 .b-content__link ul {
 	width: 30px;
-	font-size: 8px;
+	font-size: 11px;
 	margin: -3px;
+	padding-bottom: 10px;
 }
 .b-container__footer {
-	height: 10px;
+	height: 20px;
 }
 .b-menu__link_footer {
 	font-size: 7px;
