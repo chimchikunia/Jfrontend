@@ -250,9 +250,6 @@ body {
 	padding: 0 8px;
 	width: 180px;
 }
-.b-container {
-	width: 768px;
-}
 .b-container__articles {
 	margin: 15px;
 	width: 700px;
@@ -311,6 +308,9 @@ body {
 }
 }
 @media screen and (max-width: 480px) and (min-width: 320px) {
+.b-container {
+	width: 768px;
+}
 .b-logo__image {
     display: block;
     height: 75px;
