@@ -250,6 +250,9 @@ body {
 	padding: 0 8px;
 	width: 180px;
 }
+.b-container {
+	width: 768px;
+}
 .b-container__articles {
 	margin: 15px;
 	width: 700px;
