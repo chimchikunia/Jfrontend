@@ -366,7 +366,7 @@ body {
 }
 .b-container__articles {
 	width: 280px;
-	margin: 10px 10px;
+	margin: -3px 10px;
 }
 .b-articles {
 	width: 320px;
@@ -393,6 +393,7 @@ body {
 }
 .b-content {
 	height: 140px;
+	width: 245px;
 }
 .b-content__image_block {
 	font-size: 20px;
