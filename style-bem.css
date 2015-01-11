@@ -453,7 +453,7 @@ html {
 	font-size: 8.5px;
 }
 .b-footer__menu .b-menu__item {
-	width: 65px;
+	width: 63px;
 }
 .b-footer__menu {
 	height: 15px;
@@ -462,7 +462,7 @@ html {
 .b-footer__copyright {
 	font-size: 8.5px;
 	width: 100%;
-	padding: 0px 40px;
+	padding: 0px 38px;
 	margin-top: -10.5px;
 }
 }
