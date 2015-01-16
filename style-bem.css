@@ -303,6 +303,9 @@ body {
 html {
 	overflow-x: hidden;
 }
+.b-container {
+	width: 320px;
+} 
 .b-logo__image {
     display: block;
     height: 80px;
@@ -400,6 +403,7 @@ html {
 }
 .b-container__content {
 	margin: 0px;
+	width: 245px;
 }
 .b-content__text {
 	width: 107%;
